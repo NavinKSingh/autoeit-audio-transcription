@@ -1,0 +1,5 @@
+audio_gsoc_venv/
+__pycache__/
+*.wav
+*.mp3
+*.xlsx
