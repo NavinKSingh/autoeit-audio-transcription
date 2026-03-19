@@ -1,4 +1,4 @@
-# AutoEIT Audio-to-Text Transcription Pipeline
+# GSoC 2026 – AutoEIT Audio Transcription Pipeline
 
 ## Overview
 
